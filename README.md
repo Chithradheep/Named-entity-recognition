@@ -133,7 +133,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ## OUTPUT:
 ### TRAINING LOSS, VALIDATION LOSS VS ITERATION PLOT:
-![image](https://github.com/Rithigasri/Named-entity-recognition/assets/93427256/2b5fe994-fb55-451e-aac5-f78e8bf3e6ec)
+<img width="879" height="643" alt="image" src="https://github.com/user-attachments/assets/90320eb8-6c65-4095-909c-958219344fe2" />
 <img width="881" height="643" alt="Screenshot 2025-11-11 094036" src="https://github.com/user-attachments/assets/bb992a1a-9a6b-4860-8167-e806e1bcfe10" />
 
 ### SAMPLE TEXT PREDICTION:
